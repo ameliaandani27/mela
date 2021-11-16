@@ -1,0 +1,38 @@
+.box1 {
+    float: center;
+    background-color: rgb(87, 153, 87);
+    padding: 45px;
+    border: black solid 2px;
+}
+.box2 {
+    float: left;
+    background-color: yellow;
+    padding: 70px;
+    margin-top: 25px;
+    margin-right: 25px;
+    border: black solid 2px;
+}
+.box3 {
+    float: center;
+    background-color: orange;
+    padding: 70px;
+    margin-left: 12em;
+    margin-top: 25px;
+    border: black solid 2px;
+}
+.box4 {
+    float: left;
+    background-color: yellow;
+    padding: 70px;
+    margin-top: 25px;
+    margin-right: 25px;
+    border: black solid 2px;
+}
+.box5 {
+    float: center;
+    background-color: lightblue;
+    padding: 70px;
+    margin-left: 12em;
+    margin-top: 25px;
+    border: black solid 2px;
+}

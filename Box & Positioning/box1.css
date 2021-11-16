@@ -1,0 +1,31 @@
+.box1 {
+    float: left;
+    background-color: yellow;
+    padding: 80px;
+    height: 350px; 
+    border: black solid 2px;
+        }
+.box2{
+    float: left;
+    background-color: orange;
+    padding: 80px;
+    height: 350px;
+    margin-left: 35px;
+    border: black solid 2px;
+        }
+.box3{
+    float: left;
+    background-color: lightgreen;
+    padding: 80px;
+    height: 350px;
+    margin-left: 35px;
+    border: black solid 2px;
+}
+.box4 {
+    float: left;
+    background-color: lightblue;
+    padding: 80px;
+    height: 350px;
+    margin-left: 35px;
+    border: black solid 2px;
+}
